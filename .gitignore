@@ -1,0 +1,7 @@
+# Rust
+/target
+**/*.rs.bk
+
+# Docs de trabalho locais (não publicar)
+PLANNING.md
+CLAUDE.md
